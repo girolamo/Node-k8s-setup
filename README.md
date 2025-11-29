@@ -94,4 +94,4 @@ Remember to restart ssh service.
 
 From this moment, you should be able to authenticate to the node using the private key and password authentication should be turned off.
 
-Run 
+## Kubernetes cluster setup
